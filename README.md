@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Blue Teaming, Networks and Python**
 
-- 💬 Ask me about **C++, Splunk, Network, Food**
+- 💬 Ask me about **C++, Splunk, Network**
 
 - 📫 How to reach me? **shrizainiv@yahoo.com**
 
