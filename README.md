@@ -1,5 +1,5 @@
 ![IvoryDagger](https://github.com/IvoryDagger/IvoryDagger/blob/a1723e64c8e72658fb13699e5e657bbcacbd8c48/banner%20(2).png)
-<h3 align="center">I believe security is the future of the world, just another ADVANCED PERSISTENT BRUNETTE geeking out about security!</h3>
+<h3 align="center">I believe security is the future of the world, JOIN ME and we can geek out all thimgs reverse shell!</h3>
 
 - 🌱 I’m currently learning **Blue Teaming, Networks and Python**
 
