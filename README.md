@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nievedha Karthikeyan</h1>
+![IvoryDagger](https://www.canva.com/design/DAEg9y_tNoM/EzsoFKOCD8QeQVZCmIk6QQ/view?utm_content=DAEg9y_tNoM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <h3 align="center">I believe security is the future of the world, YOU KNOW, with PRIVACY being the thing of the past and all! Count me in for all things Cybersecurity!</h3>
 
 - 🌱 I’m currently learning **Blue Teaming, Networks and Python**
