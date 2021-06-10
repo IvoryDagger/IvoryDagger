@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C++, Splunk, Network, Food**
 
-- 📫 How to reach me **shrizainiv@yahoo.com**
+- 📫 How to reach me? **shrizainiv@yahoo.com**
 
 - ⚡ Fun fact **I think I can read minds**
 
