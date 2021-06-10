@@ -1,4 +1,4 @@
-![IvoryDagger](https://github.com/IvoryDagger/IvoryDagger/blob/a1723e64c8e72658fb13699e5e657bbcacbd8c48/banner%20(2).png)
+![IvoryDagger](https://github.com/IvoryDagger/IvoryDagger/blob/232e8cd69f20114fbbf6161db0846b4478a38b50/banner%20(3).png)
 <h3 align="center">I BELIEVE SECURITY IS THE FUTURE! JOIN ME AND WE CAN GEEK OUT ON ALL THINGS REVERSE SHELL!</h3>
 
 - 🌱 I’m currently learning **Blue Teaming, Networks and Python**
